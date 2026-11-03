@@ -5,14 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/YOUR-USERNAME/amazon-india-product-analysis/blob/main/notebooks/amazon_eda_colab.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
-  </a>
-  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20seaborn%20%7C%20scipy-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Tableau-Dashboard-orange" alt="Tableau">
-</p>
-
-<p align="center">
   <img src="images/dashboard.png" alt="Amazon India Product Dashboard" width="900">
 </p>
 
